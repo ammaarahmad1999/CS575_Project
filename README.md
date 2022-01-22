@@ -1,6 +1,6 @@
 # Time Series Mini Project
 
-In this project, we analyze the monthly rainfall data of Ranchi for 102 years (1901 - 2022).
+In this project, we analyze the monthly rainfall data of Ranchi for 102 years.
 Baseline Model - Predicted Current month rainfall = Actual previous month rainfall.
 Check for Seasonality and Stationarity using PACF, ACF plots and Dickey Fuller Test respectively
 Various Statistical TIme Series Model applied on the data - AR, MA ARIMA, SARIMA and Prophet
